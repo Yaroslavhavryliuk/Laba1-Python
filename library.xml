@@ -1,0 +1,25 @@
+<Library>
+    <Authors>
+        <Author id="0" name="Shevchenko">
+            <Books>
+                <Book id="0" title="Kobzar" genre="poems" pages="471"/>
+            </Books>
+        </Author>
+        <Author id="1" name="Fredrik Bakman"><Books>
+            <Book id="1" title="Bear City" genre="Social" pages="424"/>
+        </Books>
+        </Author>
+        <Author id="2" name="Vasyl Shklar">
+            <Books>
+                <Book id="4" title="Troshcha" genre="Historical" pages="527"/>
+                <Book id="3" title="Chornyi Voron" genre="Historical" pages="375"/>
+            </Books>
+        </Author>
+        <Author id="3" name="Max Kidruk">
+            <Books>
+                <Book id="5" title="Tverdynia" genre="Adventure" pages="548"/>
+                <Book id="6" title="Bot" genre="Fantasy" pages="555"/>
+            </Books>
+        </Author>
+    </Authors>
+</Library>
